@@ -1,6 +1,6 @@
 import PyQt5
 import sys
-
+from PyQt5.QtGui import QPainter, QColor, QFont
 from PyQt5 import uic  # Импортируем uic
 from PyQt5.QtWidgets import QApplication, QMainWindow
 
